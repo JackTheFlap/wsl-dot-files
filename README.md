@@ -7,7 +7,7 @@ Dot files template used with WSL instances.
 
 Clone into the users home folder:
 
-git clone https://github.com/JackTheFlap/wsl-dot-files.git
+    git clone https://github.com/JackTheFlap/wsl-dot-files.git
 
 ## Required Applications
 
